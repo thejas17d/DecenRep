@@ -1,0 +1,14 @@
+flask
+werkzeug
+pytesseract
+pillow
+pdf2image
+web3
+nltk
+numpy
+eth-account
+requests
+PyMuPDF
+reportlab
+groq
+markupsafe
